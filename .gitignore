@@ -1,1 +1,8 @@
 /Abhay_FOPJava_GradedProject1/out/
+/Abhay_FOPJava_GradedProject1/.idea/
+/Abhay_FOPJava_LabAlgo2/.idea/
+*.iml
+Abhay_FOPJava_GradedProject1/.classpath
+Abhay_FOPJava_GradedProject1/.project
+*.class
+*.xml
