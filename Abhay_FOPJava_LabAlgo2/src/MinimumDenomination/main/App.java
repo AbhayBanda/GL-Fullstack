@@ -1,8 +1,10 @@
-package MinimumDenomination;
+package MinimumDenomination.main;
+
+import MinimumDenomination.util.MergeSort;
 
 import java.util.Scanner;
 
-public class MinimumDenominations {
+public class App {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,4 +1,4 @@
-package MinimumDenomination;
+package MinimumDenomination.util;
 
 
 public class MergeSort {
