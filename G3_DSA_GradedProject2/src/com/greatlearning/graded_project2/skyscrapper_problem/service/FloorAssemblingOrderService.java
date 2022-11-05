@@ -1,6 +1,6 @@
-package com.greatlearning.graded_project2.binary_to_skew_problem.service;
+package com.greatlearning.graded_project2.skyscrapper_problem.service;
 
-import com.greatlearning.graded_project2.binary_to_skew_problem.entity.Floor;
+import com.greatlearning.graded_project2.skyscrapper_problem.entity.Floor;
 
 import java.util.PriorityQueue;
 import java.util.Stack;

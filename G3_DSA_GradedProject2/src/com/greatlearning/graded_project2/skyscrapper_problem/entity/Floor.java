@@ -1,4 +1,4 @@
-package com.greatlearning.graded_project2.binary_to_skew_problem.entity;
+package com.greatlearning.graded_project2.skyscrapper_problem.entity;
 
 public class Floor {
     private int size;
